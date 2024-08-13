@@ -92,6 +92,7 @@ public class UiBasedCollector extends NotificationListenerService {
         coOptedPackages.add("com.senseonics.gen12androidapp");
         coOptedPackages.add("com.senseonics.androidapp");
         coOptedPackages.add("com.microtech.aidexx.mgdl"); // Experiment
+        coOptedPackages.add("com..ottai.tag.mmoll");
 
         coOptedPackagesAll.add("com.dexcom.dexcomone");
         coOptedPackagesAll.add("com.dexcom.d1plus");
